@@ -99,7 +99,7 @@ button {
 }
 
 .section-1-right {
-    background-image: url("/assets/section-1-bg.png");
+    background-image: url("assets/section-1-bg.png");
     background-repeat: no-repeat;
     background-position: right;
     background-size:contain;
